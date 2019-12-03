@@ -1,12 +1,3 @@
 # ROM
-ROM-Vaje 29.10.
-
-Popravil sem
-
-Sem popravil na GitHub!
-
-
-En vzporeden popravek.
-
-Sprememba na GitHub
-
+Za seminarsko sem si izbrala kocko, kjer bodo zraven navedene formule za ploščino, volumen, telesna diagonala, ipd.
+Kocka bo prikazana v 3D obliki.
